@@ -1,5 +1,3 @@
 - Hi, I’m @Abubakar-Riaz
-- I’m interested in coding and is one of the things I enjoy the most.
-- I’m currently studying Bachelors of Computer Science from FAST-NU.
-- I’m looking to collaborate on all sorts of coding related projects.
-- I can be contacted via email: "abubakarriaz416@gmail.com"
+- Backend automation enthusiast  Web scraping & API integration  Building tools that solve real problems
+
